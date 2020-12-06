@@ -1,0 +1,3314 @@
+{
+    "tasksData": [
+        {
+            "name": "Choose the right age",
+            "localizedName": "Choose the right age",
+            "gameType": 5,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "48",
+                    "imageText": "Dwayne Johnson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "46",
+                        "47",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "34",
+                    "imageText": "Emilia Clarke",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "33"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "46",
+                    "imageText": "Joaquin Phoenix",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "48",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "51",
+                    "imageText": "Jennifer aniston",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "52",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "43",
+                    "imageText": "Tom Hardy",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "46",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "30",
+                    "imageText": "Jennifer Lawrence",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "31",
+                        "32"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "41",
+                    "imageText": "Kevin Hart",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "40",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "49",
+                    "imageText": "Winona Ryder",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "48",
+                        "50",
+                        "51"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "34",
+                    "imageText": "Robert Pattinson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "37",
+                        "33"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "41",
+                    "imageText": "Jason Momoa",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "39",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "45",
+                    "imageText": "Angelina Jolie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "44",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "46",
+                    "imageText": "Leonardo DiCaprio",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "48",
+                        "45"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "56",
+                    "imageText": "Sandra Bullock",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "52",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "55",
+                    "imageText": "Robert Downey Jr",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "53",
+                        "57",
+                        "51"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "31",
+                    "imageText": "Brie Larson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "33",
+                        "35"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "37",
+                    "imageText": "Henry Cavill",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "35",
+                        "36"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "48",
+                    "imageText": "Cameron Diaz",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "46",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "58",
+                    "imageText": "Tom Cruise",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "56",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "71",
+                    "imageText": "Meryl Streep",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "70",
+                        "69",
+                        "72"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "64",
+                    "imageText": "Tom Hanks",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "63",
+                        "63",
+                        "65"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "36",
+                    "imageText": "Scarlett Johansson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "34",
+                        "33"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "39",
+                    "imageText": "Chris evans",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "30",
+                    "imageText": "Emma Watson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "27",
+                        "30",
+                        "31"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "59",
+                    "imageText": "Jim Carrey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "58",
+                        "57",
+                        "56"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "35",
+                    "imageText": "Gal Gadot",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "33",
+                        "34"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "53",
+                    "imageText": "Vin Diesel",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "45",
+                    "imageText": "Charlize Theron",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "43",
+                        "41",
+                        "39"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "51",
+                    "imageText": "Gerard Butler",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "49",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "24",
+                    "imageText": "Sophie Turner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "26",
+                        "28"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "48",
+                    "imageText": "Ben Affleck",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "49",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "37",
+                    "imageText": "Emily Blunt",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "36",
+                        "35"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "46",
+                    "imageText": "Bradley Cooper",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "44",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "32",
+                    "imageText": "Emma Stone",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "31",
+                        "29",
+                        "30"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "66",
+                    "imageText": "Jackie Chan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "64",
+                        "62",
+                        "60"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "30",
+                    "imageText": "Margot Robbie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "31",
+                        "32"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "57",
+                    "imageText": "Brad Pitt",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "56",
+                        "55",
+                        "54"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "34",
+                    "imageText": "Alexandra Daddario",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "37"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "41",
+                    "imageText": "Chris Pratt",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "42",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "46",
+                    "imageText": "Amy Adams",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "44",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "56",
+                    "imageText": "Keanu Reeves",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "57",
+                        "58",
+                        "55"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "22",
+                    "imageText": "Elle Fanning",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "23",
+                        "24"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "52",
+                    "imageText": "Hugh Jackman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "53",
+                        "51",
+                        "50"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "55",
+                    "imageText": "Viola Davis",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "56",
+                        "57",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "42",
+                    "imageText": "James Franco",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "39"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "31",
+                    "imageText": "Elizabeth Olsen",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "30",
+                        "32"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "53",
+                    "imageText": "Jason Statham",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "52",
+                        "51"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "46",
+                    "imageText": "Hilary Swank",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "48",
+                        "45"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "68",
+                    "imageText": "Liam Neeson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "33",
+                        "34"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "43",
+                    "imageText": "Katheryn Winnick",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "45",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "90",
+                    "imageText": "Clint Eastwood",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "88",
+                        "86",
+                        "92"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "44",
+                    "imageText": "Reese Witherspoon",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "46",
+                        "45",
+                        "47"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "62",
+                    "imageText": "Alec Baldwin",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "63",
+                        "64",
+                        "65"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "38",
+                    "imageText": "Natalie Dormer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "37"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "52",
+                    "imageText": "Will Smith",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "35",
+                    "imageText": "Carey Mulligan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "37",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "48",
+                    "imageText": "Idris Elba",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "46",
+                        "45"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "37",
+                    "imageText": "Felicity Jones",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "35",
+                        "34"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "41",
+                    "imageText": "James McAvoy",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "43",
+                        "44"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "44",
+                    "imageText": "Amy Smart",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "43",
+                        "41"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "74",
+                    "imageText": "Sylvester Stallone",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "75",
+                        "74",
+                        "73"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "40",
+                    "imageText": "Kristen Bell",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "39",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "56",
+                    "imageText": "Russell Crowe",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "55",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "34",
+                    "imageText": "Teresa Palmer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "32",
+                        "31"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "51",
+                    "imageText": "Peter Dinklage",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "49",
+                        "48"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "53",
+                    "imageText": "Julia Roberts",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "46",
+                    "imageText": "Christian Bale",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "44",
+                        "47"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "81",
+                    "imageText": "Harvey Keitel",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "80",
+                        "79",
+                        "78"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "51",
+                    "imageText": "Matthew McConaughey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "52",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "41",
+                    "imageText": "Evangeline Lilly",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "40",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "37",
+                    "imageText": "Chris Hemsworth",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "39",
+                        "40"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "62",
+                    "imageText": "Gary Oldman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "61",
+                        "60",
+                        "59"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "43",
+                    "imageText": "Michael Fassbender",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "41",
+                        "40"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "53",
+                    "imageText": "Nicole Kidman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "64",
+                    "imageText": "Bryan Cranston",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "60",
+                        "61",
+                        "62"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "40",
+                    "imageText": "Jason Segel",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "38",
+                        "41"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "38",
+                    "imageText": "Sebastian Stan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "37",
+                        "36",
+                        "35"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "47",
+                    "imageText": "Kristen Wiig",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "46",
+                        "44",
+                        "45"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "73",
+                    "imageText": "Arnold Schwarzenegger",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "72",
+                        "71",
+                        "70"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "37",
+                    "imageText": "Andrew Garfield",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "35",
+                        "36"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "42",
+                    "imageText": "Anthony Mackie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "66",
+                    "imageText": "Rene Russo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "65",
+                        "64",
+                        "67"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "72",
+                    "imageText": "Samuel L.Jackson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "69",
+                        "70",
+                        "71"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "57",
+                    "imageText": "Johnny Depp",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "56",
+                        "55",
+                        "54"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "45",
+                    "imageText": "Casey Affleck",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "43",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "48",
+                    "imageText": "Gwyneth Paltrow",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "49",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "40",
+                    "imageText": "Jake Gyllenhaal",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "39",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "52",
+                    "imageText": "Daniel Craig",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "53",
+                    "imageText": "David Schwimmer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "52",
+                        "51",
+                        "50"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "43",
+                    "imageText": "Liv Tyler",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "41",
+                        "40"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "53",
+                    "imageText": "Mark Ruffalo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "55",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "69",
+                    "imageText": "Michael Keaton",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "70",
+                        "68",
+                        "67"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "38",
+                    "imageText": "Seth Rogen",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "37",
+                        "36",
+                        "35"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "42",
+                    "imageText": "Katie Holmes",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "44",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "40",
+                    "imageText": "Chris Pine",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "38",
+                        "41"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "65",
+                    "imageText": "Mel Gibson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "63",
+                        "61",
+                        "67"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "68",
+                    "imageText": "Robert De Niro",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "67",
+                        "66",
+                        "65"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "51",
+                    "imageText": "Catherine Zeta-Jones",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "48",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "66",
+                    "imageText": "Denzel Washington",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "65",
+                        "64",
+                        "63"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "55",
+                    "imageText": "Chris Rock",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "56",
+                        "57"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "47",
+                    "imageText": "Adrien Brody",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "46",
+                        "44"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "35",
+                    "imageText": "Keira Knightley",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "33",
+                        "32"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "41",
+                    "imageText": "Travis Fimmel",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "39",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "44",
+                    "imageText": "Colin Farrell",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "43",
+                        "42",
+                        "41"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "61",
+                    "imageText": "Sean Bean",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "60",
+                        "62",
+                        "63"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "45",
+                    "imageText": "Marion Cotillard",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "43",
+                        "42"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "40",
+                    "imageText": "Ryan Gosling",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "39",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "61",
+                    "imageText": "Hugh Laurie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "60",
+                        "59",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "54",
+                    "imageText": "Adam Sandler",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "55",
+                        "53",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "61",
+                    "imageText": "Patricia Clarkson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "60",
+                        "59",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "46",
+                    "imageText": "Mahershala Ali",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "44",
+                        "43"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "55",
+                    "imageText": "Kevin James",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "56",
+                        "57",
+                        "54"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "46",
+                    "imageText": "Elizabeth Banks",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "45",
+                        "44"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "65",
+                    "imageText": "Kevin Costner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "66",
+                        "64",
+                        "63"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "54",
+                    "imageText": "Robin Wright",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "55",
+                        "56",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "50",
+                    "imageText": "Nikolaj Coster-Waldau",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "51",
+                        "49",
+                        "48"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "42",
+                    "imageText": "Zoe Saldana",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "40",
+                        "39"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "44",
+                    "imageText": "Benedict Cumberbatch",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "43",
+                        "42",
+                        "41"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "50",
+                    "imageText": "Jennifer Connelly",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "51",
+                        "49",
+                        "48"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "58",
+                    "imageText": "Jodie Foster",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "57",
+                        "56",
+                        "55"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "39",
+                    "imageText": "Tom Hiddleston",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "37",
+                        "36"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "56",
+                    "imageText": "Laura Linney",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "57",
+                        "55"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "49",
+                    "imageText": "Martin Freeman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "48",
+                        "47",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "53",
+                    "imageText": "Carrie-Anne Moss",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "52",
+                        "51",
+                        "50"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "65",
+                    "imageText": "Bruce Willis",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "64",
+                        "63",
+                        "62"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "53",
+                    "imageText": "Will Ferrell",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "52",
+                        "51",
+                        "50"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "43",
+                    "imageText": "Maggie Gyllenhaal",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "41",
+                        "40"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "60",
+                    "imageText": "Sean Penn",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "61",
+                        "59",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "43",
+                    "imageText": "Kerry Washington",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "41",
+                        "44"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "57",
+                    "imageText": "Mike Myers",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "56",
+                        "55",
+                        "54"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "52",
+                    "imageText": "Naomi Watts",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "34",
+                    "imageText": "Kit Harington",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "32",
+                        "31"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "26",
+                    "imageText": "Saoirse Ronan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "27",
+                        "24"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "51",
+                    "imageText": "Matthew Perry",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "52",
+                        "53"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "26",
+                    "imageText": "Nicola Peltz",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "23",
+                        "24"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "63",
+                    "imageText": "Daniel Day-Lewis",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "62",
+                        "61",
+                        "64"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "40",
+                    "imageText": "Minka Kelly",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "41",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "39",
+                    "imageText": "Eddie Redmayne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "22",
+                    "imageText": "Maisie Williams",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "24",
+                        "23"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "50",
+                    "imageText": "Jeremy Renner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "51",
+                        "49",
+                        "48"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "27",
+                    "imageText": "Halston Sage",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "25",
+                        "26"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "39",
+                    "imageText": "Rami Malek",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "38"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "34",
+                    "imageText": "Amber Heard",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "33",
+                        "32"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "31",
+                    "imageText": "Daniel Radcliffe",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "28",
+                        "29"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "51",
+                    "imageText": "Cate Blanchett",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "52",
+                        "50",
+                        "49"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "24",
+                    "imageText": "Tom Holland",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "27"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "54",
+                    "imageText": "Halle Berry",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "55",
+                        "53",
+                        "52"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "83",
+                    "imageText": "Morgan Freeman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "82",
+                        "81",
+                        "84"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "48",
+                    "imageText": "Jennifer Garner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "49",
+                        "47",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "44",
+                    "imageText": "Ryan Reynolds",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "47",
+                        "46"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "39",
+                    "imageText": "Natalie Portman",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "37",
+                        "36"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Guess The Age",
+            "localizedName": "Guess The Age",
+            "gameType": 4,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "44",
+                    "imageText": "Ryan Reynolds",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 20
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "54",
+                    "imageText": "Salma Hayek",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 20
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "66",
+                    "imageText": "John Travolta",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 20
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "38",
+                    "imageText": "Kirsten Dunst",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 20
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "50",
+                    "imageText": "Matt Damon",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "23",
+                    "imageText": "Madison Iseman",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "59",
+                    "imageText": "Woody Harrelson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "24",
+                    "imageText": "Hailee Steinfeld",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "51",
+                    "imageText": "Josh Brolin",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "39",
+                    "imageText": "Ruth Wilson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "87",
+                    "imageText": "Michael Caine",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "43",
+                    "imageText": "Jessica Chastain",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "40",
+                    "imageText": "Channing Tatum",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "56",
+                    "imageText": "Courteney Cox",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "28",
+                    "imageText": "Ezra Miller",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "37",
+                    "imageText": "Adrianne Palicki",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "54",
+                    "imageText": "Jeffrey Dean Morgan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "34",
+                    "imageText": "Megan Fox",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "66",
+                    "imageText": "Jerry Seinfeld",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "48",
+                    "imageText": "Toni Collette",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "83",
+                    "imageText": "Jack Nicholson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "44",
+                    "imageText": "Michelle Monaghan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "24",
+                    "imageText": "Tom Holland",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "61",
+                    "imageText": "Catherine Keener",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "43",
+                    "imageText": "Chiwetel Ejiofor",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "45",
+                    "imageText": "Kate Winslet",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "23",
+                    "imageText": "Asa Butterfield",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "46",
+                    "imageText": "Alyson Hannigan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "49",
+                    "imageText": "Sacha Baron Cohen",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "28",
+                    "imageText": "Elizabeth Lail",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "65",
+                    "imageText": "Willem Dafoe",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "24",
+                    "imageText": "Zendaya",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "51",
+                    "imageText": "Paul Rudd",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "24",
+                    "imageText": "Anya Taylor",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "52",
+                    "imageText": "Norman Reedus",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "30",
+                    "imageText": "Kristen Stewart",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "83",
+                    "imageText": "Morgan Freeman",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "48",
+                    "imageText": "Jennifer Garner",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "49",
+                    "imageText": "Ewan McGregor",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "33",
+                    "imageText": "Elliot Page",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "58",
+                    "imageText": "Steve Carell",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "30",
+                    "imageText": "Rachel Brosnahan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "51",
+                    "imageText": "Edward Norton",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "51",
+                    "imageText": "Cate Blanchett",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "57",
+                    "imageText": "Nicolas Cage",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "31",
+                    "imageText": "Dakota Johnson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "70",
+                    "imageText": "Bill Murray",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "34",
+                    "imageText": "Amber Heard",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "31",
+                    "imageText": "Daniel Radcliffe",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "52",
+                    "imageText": "Gillian Anderson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "64",
+                    "imageText": "Christoph Waltz",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "38",
+                    "imageText": "Anne Hathaway",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "49",
+                    "imageText": "Mark Wahlberg",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "75",
+                    "imageText": "Diane Keaton",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "37",
+                    "imageText": "Jonah Hill",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "50",
+                    "imageText": "Uma Thurman",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "50",
+                    "imageText": "Barry Pepper",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "35",
+                    "imageText": "Anna Kendrick",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "39",
+                    "imageText": "Rami Malek",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "54",
+                    "imageText": "Halle Berry",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "80",
+                    "imageText": "Al Pacino",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "35",
+                    "imageText": "Rosa Salazar",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "52",
+                    "imageText": "Jason Bateman",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "42",
+                    "imageText": "Rachel McAdams",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "53",
+                    "imageText": "Benicio del Toro",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "32",
+                    "imageText": "Nina Dobrev",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "50",
+                    "imageText": "Jeremy Renner",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "31",
+                    "imageText": "Lily James",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "40",
+                    "imageText": "Joseph Gordon-Levitt",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "27",
+                    "imageText": "Halston Sage",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "49",
+                    "imageText": "Jared Leto",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "27",
+                    "imageText": "Olivia Cooke",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "83",
+                    "imageText": "Dustin Hoffman",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "32",
+                    "imageText": "Alicia Vikander",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "47",
+                    "imageText": "Neil Patrick Harris",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "46",
+                    "imageText": "Penelope Cruz",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "53",
+                    "imageText": "Jamie Foxx",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "39",
+                    "imageText": "Bryce Dallas Howard",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "41",
+                    "imageText": "Aaron Paul",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "47",
+                    "imageText": "Lena Headey",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "59",
+                    "imageText": "George Clooney",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "22",
+                    "imageText": "Maisie Williams",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "39",
+                    "imageText": "Eddie Redmayne",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "44",
+                    "imageText": "Diane Kruger",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "30",
+                    "imageText": "Liam Hemsworth",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "41",
+                    "imageText": "Rose Byrne",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "33",
+                    "imageText": "Zac Efron",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "40",
+                    "imageText": "Minka Kelly",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "63",
+                    "imageText": "Dolph Lundgren",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "57",
+                    "imageText": "Lisa Kudrow",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "63",
+                    "imageText": "Daniel Day-Lewis",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "33",
+                    "imageText": "Lauren Cohan39",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "31",
+                    "imageText": "Brenton Thwaites",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "41",
+                    "imageText": "Rachel Nichols",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "53",
+                    "imageText": "Matt LeBlanc",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "26",
+                    "imageText": "Nicola Peltz",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "49",
+                    "imageText": "Michael C.Hall",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "60",
+                    "imageText": "Julianne Moore",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "51",
+                    "imageText": "Matthew Perry",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "32",
+                    "imageText": "Karen Gillan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "48",
+                    "imageText": "Jude Law",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "60",
+                    "imageText": "Tilda Swinton",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "34",
+                    "imageText": "Penn Badgley",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "62",
+                    "imageText": "Annette Bening",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "47",
+                    "imageText": "Patrick Wilson",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "54",
+                    "imageText": "Helena Bonham Carter",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "51",
+                    "imageText": "Zach Galifianakis",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "41",
+                    "imageText": "Jennifer Carpenter",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "44",
+                    "imageText": "Cillian Murphy",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "47",
+                    "imageText": "Vera Farmiga",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "54",
+                    "imageText": "Matthew Fox",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "37",
+                    "imageText": "Melanie Laurent",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "55",
+                    "imageText": "Ben Stiller",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "40",
+                    "imageText": "Michelle Williams",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "58",
+                    "imageText": "Ralph Fiennes",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "26",
+                    "imageText": "Saoirse Ronan",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "34",
+                    "imageText": "Kit Harington",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "55",
+                    "imageText": "Connie Nielsen",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "78",
+                    "imageText": "Harrison Ford",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "35",
+                    "imageText": "Rooney Mara",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "60",
+                    "imageText": "antonio banderas",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "52",
+                    "imageText": "Naomi Watts",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "47",
+                    "imageText": "Andrew Lincoln",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "35",
+                    "imageText": "Lea Seydoux",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "59",
+                    "imageText": "Eddie Murphy",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "play"
+        },
+        {
+            "key": 1,
+            "value": "info"
+        },
+        {
+            "key": 2,
+            "value": "quit"
+        },
+        {
+            "key": 3,
+            "value": "back"
+        },
+        {
+            "key": 4,
+            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+        },
+        {
+            "key": 5,
+            "value": "locked"
+        },
+        {
+            "key": 6,
+            "value": "Reveal a number"
+        },
+        {
+            "key": 7,
+            "value": "Remove numbers"
+        },
+        {
+            "key": 8,
+            "value": "Get an answer"
+        },
+        {
+            "key": 9,
+            "value": "Get coins"
+        },
+        {
+            "key": 10,
+            "value": "Watch AD"
+        },
+        {
+            "key": 11,
+            "value": "Buy for money"
+        },
+        {
+            "key": 12,
+            "value": "continue"
+        },
+        {
+            "key": 13,
+            "value": "main menu"
+        },
+        {
+            "key": 14,
+            "value": "Level complete!"
+        },
+        {
+            "key": 15,
+            "value": "If you liked the game, please rate it on Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 18,
+            "value": "later"
+        },
+        {
+            "key": 17,
+            "value": "never"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "yes"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Looks like you have a better progress!"
+        },
+        {
+            "key": 25,
+            "value": "Do you want to load it?"
+        },
+        {
+            "key": 26,
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+        },
+        {
+            "key": 27,
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
+        },
+        {
+            "key": 28,
+            "value": "Confirm"
+        },
+        {
+            "key": 29,
+            "value": "Learn more"
+        },
+        {
+            "key": 30,
+            "value": "Remove wrong answer"
+        },
+        {
+            "key": 31,
+            "value": "Remove two answers"
+        },
+        {
+            "key": 32,
+            "value": "Chance to mistake"
+        },
+        {
+            "key": 33,
+            "value": "Please, help me to complete the level!"
+        },
+        {
+            "key": 34,
+            "value": "Help from friends"
+        },
+        {
+            "key": 35,
+            "value": "Ask friends"
+        },
+        {
+            "key": 36,
+            "value": "Bet"
+        },
+        {
+            "key": 37,
+            "value": "Use hints if you get stucked!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the number to clear it. Swipe to clear all the numbers."
+        },
+        {
+            "key": 39,
+            "value": "Scrape the film to reveal the image!"
+        },
+        {
+            "key": 40,
+            "value": "Tap this to make the image more clear. Requires gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tap the image to make it more clear. Requires gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tap to get usefull info about the task!"
+        },
+        {
+            "key": 45,
+            "value": "How difficult this task is? Make a right bet!"
+        },
+        {
+            "key": 46,
+            "value": "more games"
+        },
+        {
+            "key": 47,
+            "value": "retry"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        49,
+        53,
+        57,
+        55,
+        51,
+        56,
+        50,
+        52,
+        54,
+        48
+    ]
+}
