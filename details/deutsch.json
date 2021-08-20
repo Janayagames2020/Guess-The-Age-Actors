@@ -9,13 +9,13 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "48",
+                    "rightAnswer": "49",
                     "imageText": "Dwayne Johnson",
                     "imageDescription": "",
                     "wrongAnswers": [
                         "46",
                         "47",
-                        "49"
+                        "48"
                     ],
                     "gameType": 5,
                     "cost": 0
